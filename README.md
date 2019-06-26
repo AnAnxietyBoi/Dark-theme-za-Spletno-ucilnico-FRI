@@ -12,7 +12,7 @@ The browser extension Stylus is required:<br>
 
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
 - [Chrome and other Chromium-based browsers](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
-- [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/).<br>
+- [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/)<br>
 
 Then:
 
