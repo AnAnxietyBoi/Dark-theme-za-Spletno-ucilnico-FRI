@@ -1,0 +1,63 @@
+* {
+    background-color: #1e1e1e !important;
+    color: #fff !important;
+    border-color: #ddd !important;
+}
+
+.bg-white {
+    background-color: #1e1e1e !important;
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(255, 255, 255, .2);
+}
+
+.coursebox.even, .coursebox.even div, .coursebox.even i, .coursebox.even a {
+    background-color: #313131 !important;
+}
+
+
+#nav-drawer, .bg-gray, button {
+    background-color: #000 !important;
+}
+
+a, .instancename {
+    color: #4da6ff !important;
+}
+
+.resourcelinkdetails {
+    color: #b9b9b9 !important;
+}
+
+.p-0 {
+    border-color: #1e1e1e !important;
+}
+
+.list-group-item.active, .list-group-item.active span, .list-group-item.active i {
+    border-color: #1f1fff !important;
+    background-color: #1f1fff !important;
+}
+
+.calendar_event_site, .calendar_event_site i  {
+    background-color: #d6f8cd !important;
+}
+
+.calendar_event_site i, .calendar_event_category i, .calendar_event_course i, .calendar_event_group i, .calendar_event_user i {
+    color: #000 !important;
+}
+
+.calendar_event_category, .calendar_event_category i {
+    background-color: #d8bfd8 !important;
+}
+
+.calendar_event_course, .calendar_event_course i {
+    background-color: #ffd3bd !important;
+}
+
+.calendar_event_group, .calendar_event_group i {
+    background-color: #fee7ae !important;
+}
+
+.calendar_event_user, .calendar_event_user i {
+    background-color: #dce7ec !important;
+}
