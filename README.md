@@ -8,7 +8,7 @@ Dark theme for website https://ucilnica.fri.uni-lj.si with Stylus.
 
 ## Installation
 
-The browser extension Stylus is required:<br>
+The browser extension [Stylus](https://add0n.com/stylus.html) is required:<br>
 
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
 - [Chrome and other Chromium-based browsers](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
