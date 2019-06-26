@@ -1,3 +1,11 @@
+/* ==UserStyle==
+@name         Spletna ucilnica FRI Dark Theme
+@version      1.0
+@description  Dark theme za Spletno ucilnico FRI
+@author       Luka Pantar
+@homepageURL  https://github.com/PinkHatHacker/Dark-theme-za-Spletno-ucilnico-FRI
+==/UserStyle== */
+
 * {
     background-color: #1e1e1e !important;
     color: #fff !important;
