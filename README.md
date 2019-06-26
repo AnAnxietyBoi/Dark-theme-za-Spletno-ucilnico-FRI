@@ -17,3 +17,5 @@ The browser extension [Stylus](https://add0n.com/stylus.html) is required:<br>
 Then:
 
 [Install the usercss](https://github.com/PinkHatHacker/Dark-theme-za-Spletno-ucilnico-FRI/raw/master/spletna_ucilnica_FRI_dark_theme.user.css) with Stylus.
+
+Click on Install style button.
