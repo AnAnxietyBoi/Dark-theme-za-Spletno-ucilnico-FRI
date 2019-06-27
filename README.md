@@ -18,6 +18,6 @@ Then:
 
 [Install the usercss](https://github.com/PinkHatHacker/Dark-theme-za-Spletno-ucilnico-FRI/raw/master/spletna_ucilnica_FRI_dark_theme.user.css) with Stylus.
 
-Click on Install style button.
+Click on "Install style" button.
 
 If you want to contribute, feel free to create an issue or a pull request.
