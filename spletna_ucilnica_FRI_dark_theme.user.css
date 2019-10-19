@@ -84,7 +84,7 @@
         	background-color:#3e3e3e !important;
     	}
     
-   	 .quizreviewsummary tbody tr td, .quizreviewsummary tbody tr td b {
+   	.quizreviewsummary tbody tr td, .quizreviewsummary tbody tr td b {
        	 	background-color:#3e3e3e !important;
     	}
     	.quizreviewsummary tbody tr th {
@@ -95,13 +95,17 @@
         	background-color:#3e3e3e !important;
     	}
     
-    	.formulation, .formulation .answer div, .formulation .answer label, .formulation p, .formulation .prompt {
+    	.formulation, .formulation .answer div, .formulation .answer label, .formulation p, .formulation .prompt, div.ablock, div.ablock label, div.ablock span, .qtext i, .qtext span, .qtext {
         	background-color:#000d58 !important;
         	color: #93aaff !important;
     	}
     
     	.formulation .answer i {
         	background-color:#000d58 !important;
+    	}
+    
+    	span.answer input {
+        	color: #fff !important;
     	}
     
     	.outcome div, .outcome {
@@ -120,8 +124,8 @@
     	.thispageholder {
         	background-color:#0f00 !important;
     	}
-	
-	li div.info {
+    
+    	li div.info {
         	background-color: #1e1e1e !important;
     	}
 }
