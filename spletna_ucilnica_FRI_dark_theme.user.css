@@ -136,4 +136,8 @@
     	li div.info {
         	background-color: #1e1e1e !important;
     	}
+	
+	.d-sm-inline-block, button i.icon {
+        	background-color: #000 !important;
+    	}
 }
