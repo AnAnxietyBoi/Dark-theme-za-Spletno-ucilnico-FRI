@@ -11,7 +11,7 @@
 
 	* {
 		background-color: #1e1e1e !important;
-		color: #fff !important;
+		color: #fff;
 		border-color: #ddd !important;
 	}
 
@@ -72,4 +72,52 @@
 	.calendar_event_user, .calendar_event_user i {
 		background-color: #dce7ec !important;
 	}
+	
+    	footer a, footer div{
+        	background-color: #373a3c !important;
+	}
+    
+   	.quizattemptsummary tbody tr:hover {
+        	background-color:#2b2b2b !important; /*hover ne dela*/
+    	}
+    	.quizattemptsummary tbody tr:nth-of-type(odd) .cell, .quizattemptsummary tbody tr:nth-of-type(odd) a, .quizattemptsummary tbody tr:nth-of-type(odd) span {
+        	background-color:#3e3e3e !important;
+    	}
+    
+   	 .quizreviewsummary tbody tr td, .quizreviewsummary tbody tr td b {
+       	 	background-color:#3e3e3e !important;
+    	}
+    	.quizreviewsummary tbody tr th {
+      	  	background-color:#2b2b2b !important;
+    	}
+    
+    	.info, .info div, .info h3, .info span, .info input {
+        	background-color:#3e3e3e !important;
+    	}
+    
+    	.formulation, .formulation .answer div, .formulation .answer label, .formulation p, .formulation .prompt {
+        	background-color:#000d58 !important;
+        	color: #93aaff !important;
+    	}
+    
+    	.formulation .answer i {
+        	background-color:#000d58 !important;
+    	}
+    
+    	.outcome div, .outcome {
+        	background-color:#7e5600 !important;
+        	color: #fff293 !important;
+    	}
+    
+    	.qn_buttons .correct .trafficlight {
+        	color: #fff !important;
+        	background-color:#0f0 !important;
+    	}
+    	.qn_buttons .incorrect .trafficlight {
+        	color: #fff !important;
+        	background-color:#f00 !important;
+    	}
+    	.thispageholder {
+        	background-color:#0f00 !important;
+    	}
 }
