@@ -3,8 +3,8 @@ Dark theme for website https://ucilnica.fri.uni-lj.si with Stylus.
 
 ## Preview
 
-![Spletna ucilnica FRI preview 1](images/Preview_dark_theme_1.PNG)
-![Spletna ucilnica FRI preview 2](images/Preview_dark_theme_2.PNG)
+![Spletna ucilnica FRI preview 1](images/Preview_dark_theme_1.png)
+![Spletna ucilnica FRI preview 2](images/Preview_dark_theme_2.png)
 
 ## Installation
 
