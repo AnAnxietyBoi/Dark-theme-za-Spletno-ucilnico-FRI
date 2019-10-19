@@ -97,7 +97,7 @@
     
     	.formulation, .formulation .answer div, .formulation .answer label, .formulation p, .formulation .prompt, div.ablock, div.ablock label, div.ablock span, .qtext i, .qtext span, .qtext {
         	background-color:#000d58 !important;
-        	color: #93aaff !important;
+        	color: #aec0ff !important;
     	}
     
     	.formulation .answer i {
@@ -120,6 +120,10 @@
     	.qn_buttons .incorrect .trafficlight {
         	color: #fff !important;
         	background-color:#f00 !important;
+    	}
+	.qn_buttons .partiallycorrect .trafficlight {
+        	color: #fff !important;
+        	background-color:#fa0 !important;
     	}
     	.thispageholder {
         	background-color:#0f00 !important;
