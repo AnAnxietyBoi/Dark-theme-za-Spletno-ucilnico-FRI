@@ -120,4 +120,8 @@
     	.thispageholder {
         	background-color:#0f00 !important;
     	}
+	
+	li div.info {
+        	background-color: #1e1e1e !important;
+    	}
 }
