@@ -151,7 +151,12 @@
 	color: #6b6b6b !important;
     }
 
-    .fa-star, .arrow {
-	color: #4da6ff !important;
+    .fa-star, .arrow, .arrow_text {
+        color: #4da6ff !important;
+    }
+    
+    .card-header, .card-header .mt-1, .card-header .mt-1 img, .card-header .d-inline-block {
+        background-color: #ffd3bd !important;
+        color: #1e1e1e;
     }
 }
